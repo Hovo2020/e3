@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kazho\\source\\repos\\CommandsService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0B89C2-B329-46B4-B199-181966326384}|CommandsService\\CommandsService.csproj|c:\\users\\kazho\\source\\repos\\commandsservice\\commandsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A0B89C2-B329-46B4-B199-181966326384}|CommandsService\\CommandsService.csproj|solutionrelative:commandsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kazho\\source\\repos\\CommandsService\\CommandsService\\appsettings.json",
+              "RelativeDocumentMoniker": "CommandsService\\appsettings.json",
+              "ToolTip": "C:\\Users\\kazho\\source\\repos\\CommandsService\\CommandsService\\appsettings.json",
+              "RelativeToolTip": "CommandsService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T01:41:43.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
